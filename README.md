@@ -4,20 +4,11 @@
 
 Poniżej znajduje się bezpośredni podgląd pliku **"Wyprowadzenie Sformułowania Wariacyjnego"**.
 
-## Podgląd dokumentu
+![strona 1](images/wyprowadzenie_sformułowania_wariacyjnego-1.png)
 
+![strona 2](images/wyprowadzenie_sformułowania_wariacyjnego-2.png)
+
+![strona 3](images/wyprowadzenie_sformułowania_wariacyjnego-3.png)
 [**Kliknij tutaj, aby otworzyć plik PDF w nowej karcie**](./wyprowadzenie_sformułowania_wariacyjnego.pdf)
 
-<iframe src="./wyprowadzenie_sformułowania_wariacyjnego.pdf" style="width:100%; height:700px;" frameborder="0"></iframe>
 
----
-
-Plik ten zawiera szczegółowe wyjaśnienia dotyczące procesu wyprowadzenia sformułowania wariacyjnego oraz jego zastosowań.
-
-## Pobierz dokument
-
-Aby pobrać plik, kliknij [tutaj](./wyprowadzenie_sformułowania_wariacyjnego.pdf).
-
----
-
-Jeśli masz pytania lub sugestie, otwórz **Issue** lub skontaktuj się z nami za pomocą Pull Requesta.
