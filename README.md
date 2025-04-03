@@ -12,5 +12,5 @@ Poniżej znajduje się bezpośredni podgląd pliku **"Wyprowadzenie Sformułowan
 [**Kliknij tutaj, aby otworzyć plik PDF w nowej karcie**](./wyprowadzenie_sformułowania_wariacyjnego.pdf)
 
 
-![n-10](images/elastic_deformation_plot_(n-10).png)
+![n10](images/elastic_deformation_plot_(n-10)-1.png)
 
